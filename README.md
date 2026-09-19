@@ -3,7 +3,7 @@
 # 📱 AppStick Mobile Engineering Portfolio
 ### Enterprise Mobile Solutions • Production Architectures • Real-Time Systems
 
-Crafted by **[MD. Mahfujul Karim Sheikh](https://github.com/mahfuj735)** during tenure at **[AppStick Ltd](https://appstick.com.bd)**
+Crafted by **[MD. Mahfujul Karim Sheikh](https://github.com/mmks735)** during tenure at **[AppStick Ltd](https://appstick.com.bd)**
 
 <p align="center">
   <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter_3.x-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /></a>
@@ -18,7 +18,7 @@ Crafted by **[MD. Mahfujul Karim Sheikh](https://github.com/mahfuj735)** during 
 
 ---
 
-## ⚡ Projects Showcase Matrix (এক নজরে সকল প্রজেক্ট)
+## ⚡ Projects Showcase Matrix
 
 | Application & Focus | Key Engineering Highlights | Tech Stack | Deliverables & Links |
 | :--- | :--- | :--- | :--- |
@@ -48,7 +48,7 @@ Crafted by **[MD. Mahfujul Karim Sheikh](https://github.com/mahfuj735)** during 
 **MD. Mahfujul Karim Sheikh**  
 *Mobile Application Engineer* @ **[AppStick Ltd](https://appstick.com.bd)**  
 📍 Khulna, Bangladesh • 🌐 [appstick.com.bd](https://appstick.com.bd)  
-GitHub: **[@mahfuj735](https://github.com/mahfuj735)** &nbsp;•&nbsp; **[@mmks735](https://github.com/mmks735)**
+📧 [mahfujul.karim@appstick.com.bd](mailto:mahfujul.karim@appstick.com.bd) &nbsp;•&nbsp; 💻 [GitHub: @mmks735](https://github.com/mmks735)
 
 <sub>© AppStick Ltd • Built with Flutter & Markdown</sub>
 
