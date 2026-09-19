@@ -1,78 +1,54 @@
-﻿<div align="center">
+<div align="center">
 
-# 📱 AppStick Engineering Portfolio
-### **MD. Mahfujul Karim Sheikh**
-**Mobile Application Engineer** @ **[AppStick Ltd](https://appstick.com.bd)**
+# 📱 AppStick Mobile Engineering Portfolio
+### Enterprise Mobile Solutions • Production Architectures • Real-Time Systems
 
-<br/>
+Crafted by **[MD. Mahfujul Karim Sheikh](https://github.com/mahfuj735)** during tenure at **[AppStick Ltd](https://appstick.com.bd)**
 
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
-[![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=getx&logoColor=white)](https://pub.dev/packages/get)
-[![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-4A154B?style=for-the-badge)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+<p align="center">
+  <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter_3.x-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /></a>
+  <a href="https://dart.dev"><img src="https://img.shields.io/badge/Dart_3.x-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" /></a>
+  <a href="https://appstick.com.bd"><img src="https://img.shields.io/badge/AppStick_Ltd-Official_Partner-10b981?style=flat-square&logo=googlechrome&logoColor=white" alt="AppStick" /></a>
+  <img src="https://img.shields.io/badge/Architecture-Clean_%26_Reactive-4A154B?style=flat-square" alt="Clean Arch" />
+</p>
 
-<br/><br/>
-
-*A curated technical directory of production-grade mobile applications and core feature implementations delivered at **AppStick Ltd**.*
+> *A curated, high-performance engineering showcase documenting production-grade mobile applications, real-time architectures, and mobile systems engineered for enterprise clients.*
 
 </div>
 
 ---
 
-> [!NOTE]
-> **🔒 Intellectual Property Notice:** The source code of these applications is proprietary to **AppStick Ltd**. This repository serves as a technical portfolio documenting engineering contributions, system architecture, and UI/UX case studies. For commercial licensing, enterprise solutions, or source code inquiries, please visit **[AppStick Ltd](https://appstick.com.bd)**.
+## ⚡ Projects Showcase Matrix (এক নজরে সকল প্রজেক্ট)
+
+| Application & Focus | Key Engineering Highlights | Tech Stack | Deliverables & Links |
+| :--- | :--- | :--- | :--- |
+| 🛒 **GreenCart (HanaGo)**<br/><sub>`AI Retail & Smart Grocery`</sub> | • AI conversational voice & text shopping assistant<br/>• 26+ production screens with reactive GetX state<br/>• 4-step live fulfillment stepper & slot delivery | `Flutter`<br/>`GetX`<br/>`Voice/NLP`<br/>`REST API` | [🌐 Live Docs](https://docs.greencart.appstick.com.bd/)<br/>[💻 GitHub Repo](https://github.com/mmks735/greencart) |
+| 🚗 **Vincy Rideshare**<br/><sub>`Dual Mobility (Driver + Rider)`</sub> | • Dual interconnected apps with real-time GPS sync<br/>• Turn-by-turn navigation & live animated bearing<br/>• Automated fare metering & bus schedule integration | `Flutter`<br/>`Google Maps`<br/>`WebSockets`<br/>`Geo-Tracking` | [🚘 Driver App](https://github.com/Appstick-Ltd/vincy-uber-driver-app)<br/>[📱 Rider App](https://github.com/Appstick-Ltd/vincy-uber-user-app) |
+| 🩺 **Jisr Healthcare**<br/><sub>`Telemedicine & Clinical Portal`</sub> | • Native Arabic (RTL) & English (LTR) bidirectional layout<br/>• Specialist doctor discovery & slot appointment booking<br/>• Encrypted electronic health records (EHR) & prescriptions | `Flutter`<br/>`Clean Arch`<br/>`RTL / Arabic`<br/>`Dio / REST` | `🔒 Enterprise Client`<br/>*(Production Solution)* |
+| 📈 **NutriHealth**<br/><sub>`Biometrics & Health Diagnostics`</sub> | • Interactive vector body map for targeted symptom logging<br/>• Dynamic FL Chart curves for multi-metric vitals tracking<br/>• Correlated 30/60/90-day health diagnostic trends | `Flutter`<br/>`FL Chart`<br/>`Custom SVG Map`<br/>`SQLite` | [💻 GitHub Repo](https://github.com/Appstick-Ltd/heath_metric) |
+| 💳 **Xpen-Stick**<br/><sub>`Corporate Expense & Ledger`</sub> | • Offline-first local database with instant sync<br/>• 3-tap rapid expense entry & receipt camera attachments<br/>• Multi-wallet accounting with auto currency conversion | `Flutter`<br/>`Hive`<br/>`SQLite`<br/>`Lottie Animation` | [💻 GitHub Repo](https://github.com/Appstick-Ltd/Xpen-stick) |
+| 🩸 **Blood Bank**<br/><sub>`Emergency Donor Network`</sub> | • Haversine formula proximity radius donor matching<br/>• 1-tap direct emergency phone dialer & SMS dispatch<br/>• 90-day cooldown rules & donor eligibility tracking | `Flutter`<br/>`Haversine Geo`<br/>`Supabase`<br/>`Firebase` | [💻 GitHub Repo](https://github.com/Appstick-Ltd/BloodDonationApp) |
 
 ---
 
-## 🚀 Featured Project: GreenCart (HanaGo)
+## 🏛️ Engineering Standards & Core Capabilities
+
+- **🏗️ Clean Architecture & MVVM:** Strict separation of UI, business logic, and repository layers ensuring high maintainability and testability.
+- **⚡ Reactive State Management:** Zero-leak controllers and deterministic reactive streams using GetX and Provider.
+- **📍 Real-Time & Geolocation:** High-accuracy location tracking, background geofencing, WebSockets, and bearing-adjusted polyline rendering.
+- **💾 Offline-First Resilience:** Local database caching (Hive/SQLite) guaranteeing full app usability even under unstable mobile networks.
+- **🎯 60 FPS Frame Budget:** Performance profiling, image and asset caching, and lazy-loaded viewports for silky-smooth interactions.
+
+---
+
+## 📬 Contact & Links
 
 <div align="center">
 
-### 🛒 Smart Grocery & E-Commerce Mobile Application with AI Assistant
-
-| 📱 Screens | 🤖 Intelligence | ⚡ State Engine | 🎨 Design System |
-| :---: | :---: | :---: | :---: |
-| **26+ Production Screens** | **AI Chat & Voice Shopping** | **Reactive GetX Architecture** | **Modern Glassmorphic UI** |
-
-<br/>
-
-[![Official Docs](https://img.shields.io/badge/🌐_Official_Company_Docs-docs.greencart.appstick.com.bd-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://docs.greencart.appstick.com.bd/)
-[![GitHub Showcase](https://img.shields.io/badge/🎬_Live_Slideshow_&_Showcase-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mmks735/greencart)
-[![GitHub Pages Mirror](https://img.shields.io/badge/📖_Live_Docs_Mirror-Explore-2ea44f?style=for-the-badge&logo=docusaurus&logoColor=white)](https://mmks735.github.io/greencart/)
-
-</div>
-
-<br/>
-
-#### 🔑 Key Engineering Deliverables:
-* **🤖 AI Shopping Assistant:** Natural language text chat and speech-to-text voice recognition for automated product discovery and direct-to-cart operations.
-* **🛍️ End-to-End E-Commerce Flow:** Catalog browsing, smart search, wishlist, cart with dynamic voucher calculations, and scheduled slot checkout.
-* **📍 Live Order Tracking Stepper:** Interactive visual tracking from order packaging to doorstep delivery.
-* **🎨 Glassmorphism Design System:** Tailored micro-interactions and smooth 60fps scrolling.
-
----
-
-## 📂 Production Projects Portfolio
-
-| Status | Project | Category | Tech Stack | Deliverables & Showcases |
-| :---: | :--- | :--- | :--- | :---: |
-| 🟢 **Live** | **GreenCart (HanaGo)** | Smart Grocery & AI E-Commerce | Flutter, GetX, AI Voice/Chat | [🌐 Official Docs](https://docs.greencart.appstick.com.bd/) &nbsp;•&nbsp; [👉 Showcase](https://github.com/mmks735/greencart) &nbsp;•&nbsp; [📖 Mirror](https://mmks735.github.io/greencart/) |
-| 🟡 *Upcoming* | **Vincy Rideshare** | Ride-Sharing (Driver & Rider) | Flutter, GetX, Google Maps, Dio | *Real-time GPS Tracking, OTP Auth, Fare Calculator* |
-| 🟡 *Upcoming* | **Jisr Healthcare** | Telemedicine & Patient Portal | Flutter, GetX, SVG Vectors | *Doctor Appointment, Medical Records, Prescriptions* |
-| 🟡 *Upcoming* | **NutriHealth** | Health & Vitals Monitoring | Flutter, GetX, FL Chart | *Anatomical Body Map, Vital Trend Charts* |
-| 🟡 *Upcoming* | **Xpen-Stick** | Enterprise Expense Tracker | Flutter, Lottie, SMS Autofill | *Expense Categorization, Analytics, OTP Verification* |
-| 🟡 *Upcoming* | **Blood Bank** | Emergency Donor Network | Flutter, Geo-Location, Direct Call | *Emergency Broadcast, Donor Matchmaking* |
-
----
-
-<div align="center">
-
-### 📬 Business & Contact Inquiries
-
-**MD. Mahfujul Karim Sheikh** • Mobile Application Engineer  
-Company: **[AppStick Ltd](https://appstick.com.bd)** • Location: **Khulna, Bangladesh**  
-Profiles: **[@mahfuj735](https://github.com/mahfuj735)** • **[@mmks735](https://github.com/mmks735)**
+**MD. Mahfujul Karim Sheikh**  
+*Mobile Application Engineer* @ **[AppStick Ltd](https://appstick.com.bd)**  
+📍 Khulna, Bangladesh • 🌐 [appstick.com.bd](https://appstick.com.bd)  
+GitHub: **[@mahfuj735](https://github.com/mahfuj735)** &nbsp;•&nbsp; **[@mmks735](https://github.com/mmks735)**
 
 <sub>© AppStick Ltd • Built with Flutter & Markdown</sub>
 
