@@ -1,0 +1,13 @@
+# Independent Sub-Repositories
+# Each of these directories has its own .git and tracks to its own GitHub repository
+greencart/
+uberdriver/
+uberuser/
+my work/
+
+# Environment / OS / IDE files
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
