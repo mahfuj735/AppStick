@@ -1,6 +1,10 @@
 <div align="center">
 
-# 📱 AppStick Mobile Engineering Portfolio
+<a href="https://appstick.com.bd" target="_blank">
+  <img src="assets/appstick-logo.png" alt="AppStick Ltd" height="75" />
+</a>
+
+# AppStick Mobile Engineering Portfolio
 ### Enterprise Mobile Solutions • Production Architectures • Real-Time Systems
 
 Crafted by **[MD. Mahfujul Karim Sheikh](https://github.com/mmks735)** during tenure at **[AppStick Ltd](https://appstick.com.bd)**
@@ -8,7 +12,7 @@ Crafted by **[MD. Mahfujul Karim Sheikh](https://github.com/mmks735)** during te
 <p align="center">
   <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter_3.x-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /></a>
   <a href="https://dart.dev"><img src="https://img.shields.io/badge/Dart_3.x-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" /></a>
-  <a href="https://appstick.com.bd"><img src="https://img.shields.io/badge/AppStick_Ltd-Official_Partner-10b981?style=flat-square&logo=googlechrome&logoColor=white" alt="AppStick" /></a>
+  <a href="https://appstick.com.bd"><img src="https://img.shields.io/badge/AppStick_Ltd-Official_Showcase-10b981?style=flat-square" alt="AppStick" /></a>
   <img src="https://img.shields.io/badge/Architecture-Clean_%26_Reactive-4A154B?style=flat-square" alt="Clean Arch" />
 </p>
 
@@ -43,6 +47,12 @@ Crafted by **[MD. Mahfujul Karim Sheikh](https://github.com/mmks735)** during te
 ## 📬 Contact & Links
 
 <div align="center">
+
+<a href="https://appstick.com.bd" target="_blank">
+  <img src="assets/appstick-logo.png" alt="AppStick Ltd" height="42" />
+</a>
+
+<br/><br/>
 
 **MD. Mahfujul Karim Sheikh**  
 *Mobile Application Engineer* @ **[AppStick Ltd](https://appstick.com.bd)**  
