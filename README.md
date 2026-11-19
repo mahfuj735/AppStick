@@ -2,6 +2,12 @@
 
 <img src="assets/appstick-desk.gif" alt="AppStick Engineering Desk" width="680" />
 
+<br/><br/>
+
+<a href="https://appstick.com.bd" target="_blank">
+  <img src="assets/appstick-logo.png" alt="AppStick Ltd" height="78" />
+</a>
+
 # AppStick Mobile Engineering Portfolio
 ### Enterprise Mobile Solutions • Production Architectures • Real-Time Systems
 
