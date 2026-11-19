@@ -5,7 +5,8 @@
 # AppStick Software Engineering Portfolio
 ### Software Engineer
 
-Crafted by **[MD. Mahfujul Karim Sheikh](https://github.com/mmks735)** during tenure at **[AppStick Ltd](https://appstick.com.bd)** *(June 2, 2026 – November 19, 2026)*
+Crafted by **[MD. Mahfujul Karim Sheikh](https://github.com/mmks735)** during tenure at **[AppStick Ltd](https://appstick.com.bd)**  
+<sub>**Software Engineer** (Jun 2, 2026 – Nov 19, 2026) &nbsp;•&nbsp; **Software Engineering Intern** (Jul 2, 2025 – Oct 20, 2025)</sub>
 
 <p align="center">
   <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter_3.x-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /></a>
@@ -17,6 +18,13 @@ Crafted by **[MD. Mahfujul Karim Sheikh](https://github.com/mmks735)** during te
 > *A comprehensive software engineering portfolio documenting end-to-end production systems, product R&D and UI/UX design, real-time architectures, and rigorous SQA validation delivered at AppStick Ltd.*
 
 </div>
+
+---
+
+## 💼 Experience @ AppStick Ltd
+
+- **Software Engineer** *(Jun 2, 2026 – Nov 19, 2026)* — End-to-end Flutter product development, client delivery, R&D & UI/UX scoping, and SQA release validation.
+- **Software Engineering Intern** *(Jul 2, 2025 – Oct 20, 2025)* — Completed engineering internship at AppStick Ltd prior to returning full-time as a Software Engineer.
 
 ---
 
@@ -55,7 +63,8 @@ Crafted by **[MD. Mahfujul Karim Sheikh](https://github.com/mmks735)** during te
 </a>
 
 ### MD. Mahfujul Karim Sheikh
-**Software Engineer** @ **[AppStick Ltd](https://appstick.com.bd)** &nbsp;•&nbsp; *June 2, 2026 – November 19, 2026*
+**Software Engineer** @ **[AppStick Ltd](https://appstick.com.bd)**  
+<sub>Full-Time: Jun 2, 2026 – Nov 19, 2026 &nbsp;•&nbsp; Internship: Jul 2, 2025 – Oct 20, 2025</sub>
 
 📍 Khulna, Bangladesh &nbsp;•&nbsp; 🌐 [appstick.com.bd](https://appstick.com.bd)  
 📧 [mahfujul.karim@appstick.com.bd](mailto:mahfujul.karim@appstick.com.bd) &nbsp;•&nbsp; 💻 [GitHub: @mmks735](https://github.com/mmks735)
