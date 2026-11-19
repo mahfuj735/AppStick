@@ -12,3 +12,6 @@ Thumbs.db
 .idea/
 .vscode/
 *.code-workspace
+
+# Local raw media source folder (optimized assets live in assets/)
+Appstick/

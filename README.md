@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="assets/appstick-desk.gif" alt="AppStick Engineering Desk" width="680" />
+
+<br/><br/>
+
 <a href="https://appstick.com.bd" target="_blank">
   <img src="assets/appstick-logo.png" alt="AppStick Ltd" height="75" />
 </a>
