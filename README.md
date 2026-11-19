@@ -66,7 +66,8 @@ Crafted by **[MD. Mahfujul Karim Sheikh](https://github.com/mmks735)** during te
 ### MD. Mahfujul Karim Sheikh
 **Software Engineer** • **[AppStick Ltd](https://appstick.com.bd)**
 
-📍 Khulna, Bangladesh &nbsp;•&nbsp; 📧 [mahfojulemridul@gmail.com](mailto:mahfojulemridul@gmail.com)  
+📍 Khulna, Bangladesh  
+📧 [mahfojulemridul@gmail.com](mailto:mahfojulemridul@gmail.com) &nbsp;•&nbsp; 🏢 [mahfujul.karim@appstick.com.bd](mailto:mahfujul.karim@appstick.com.bd)  
 🔗 [LinkedIn](https://www.linkedin.com/in/md-mahfujul-karim-sheikh-12b85b202/) &nbsp;•&nbsp; 💻 [GitHub: @mmks735](https://github.com/mmks735) &nbsp;•&nbsp; 🌐 [appstick.com.bd](https://appstick.com.bd)
 
 <sub>© MD. Mahfujul Karim Sheikh • Software Engineering Portfolio</sub>
