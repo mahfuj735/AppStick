@@ -2,8 +2,8 @@
 
 <img src="assets/appstick-desk.gif" alt="AppStick Engineering Desk" width="680" />
 
-# AppStick Mobile Engineering Portfolio
-### Enterprise Mobile Solutions • Production Architectures • Real-Time Systems
+# AppStick Software Engineering Portfolio
+### End-to-End Product Engineering • R&D & UI/UX • Software Quality Assurance
 
 Crafted by **[MD. Mahfujul Karim Sheikh](https://github.com/mmks735)** during tenure at **[AppStick Ltd](https://appstick.com.bd)**
 
@@ -11,10 +11,10 @@ Crafted by **[MD. Mahfujul Karim Sheikh](https://github.com/mmks735)** during te
   <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter_3.x-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /></a>
   <a href="https://dart.dev"><img src="https://img.shields.io/badge/Dart_3.x-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" /></a>
   <a href="https://appstick.com.bd"><img src="https://img.shields.io/badge/AppStick_Ltd-Official_Showcase-10b981?style=flat-square" alt="AppStick" /></a>
-  <img src="https://img.shields.io/badge/Architecture-Clean_%26_Reactive-4A154B?style=flat-square" alt="Clean Arch" />
+  <img src="https://img.shields.io/badge/Engineering-End--to--End_%26_SQA-4A154B?style=flat-square" alt="Engineering & SQA" />
 </p>
 
-> *A curated, high-performance engineering showcase documenting production-grade mobile applications, real-time architectures, and mobile systems engineered for enterprise clients.*
+> *A comprehensive software engineering portfolio documenting end-to-end production systems, product R&D and UI/UX design, real-time architectures, and rigorous SQA validation delivered at AppStick Ltd.*
 
 </div>
 
@@ -39,10 +39,10 @@ Crafted by **[MD. Mahfujul Karim Sheikh](https://github.com/mmks735)** during te
 ## 🏛️ Engineering Standards & Core Capabilities
 
 - **🏗️ Clean Architecture & MVVM:** Strict separation of UI, business logic, and repository layers ensuring high maintainability and testability.
-- **⚡ Reactive State Management:** Zero-leak controllers and deterministic reactive streams using GetX and Provider.
-- **📍 Real-Time & Geolocation:** High-accuracy location tracking, background geofencing, WebSockets, and bearing-adjusted polyline rendering.
-- **💾 Offline-First Resilience:** Local database caching (Hive/SQLite) guaranteeing full app usability even under unstable mobile networks.
-- **🎯 60 FPS Frame Budget:** Performance profiling, image and asset caching, and lazy-loaded viewports for silky-smooth interactions.
+- **🔬 Product Scoping, R&D & UI/UX:** Turning raw ideas into validated product scopes, intuitive interfaces, and complete A–Z production implementations.
+- **⚡ Reactive State & Real-Time Systems:** Deterministic state management (GetX/Provider), WebSockets, live geo-tracking, and bearing-adjusted rendering.
+- **💾 Offline-First & Binary Engineering:** Local persistence, on-device file/EXIF binary sanitization, and zero-upload privacy resilience.
+- **🛡️ Software Quality Assurance (SQA):** End-to-end functional, regression, exploratory, and edge-case testing for stable Play Store releases.
 
 ---
 
@@ -55,7 +55,7 @@ Crafted by **[MD. Mahfujul Karim Sheikh](https://github.com/mmks735)** during te
 </a>
 
 ### MD. Mahfujul Karim Sheikh
-**Mobile Application Engineer (Flutter & SQA)** @ **[AppStick Ltd](https://appstick.com.bd)**
+**Software Engineer (Flutter, R&D & SQA)** @ **[AppStick Ltd](https://appstick.com.bd)**
 
 📍 Khulna, Bangladesh &nbsp;•&nbsp; 🌐 [appstick.com.bd](https://appstick.com.bd)  
 📧 [mahfujul.karim@appstick.com.bd](mailto:mahfujul.karim@appstick.com.bd) &nbsp;•&nbsp; 💻 [GitHub: @mmks735](https://github.com/mmks735)
