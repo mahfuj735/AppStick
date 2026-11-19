@@ -5,7 +5,7 @@
 # AppStick Software Engineering Portfolio
 ### Software Engineer
 
-Crafted by **[MD. Mahfujul Karim Sheikh](https://github.com/mmks735)** during tenure at **[AppStick Ltd](https://appstick.com.bd)**
+Crafted by **[MD. Mahfujul Karim Sheikh](https://github.com/mmks735)** during tenure at **[AppStick Ltd](https://appstick.com.bd)** *(June 2, 2026 – November 19, 2026)*
 
 <p align="center">
   <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter_3.x-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /></a>
@@ -55,7 +55,7 @@ Crafted by **[MD. Mahfujul Karim Sheikh](https://github.com/mmks735)** during te
 </a>
 
 ### MD. Mahfujul Karim Sheikh
-**Software Engineer** @ **[AppStick Ltd](https://appstick.com.bd)**
+**Software Engineer** @ **[AppStick Ltd](https://appstick.com.bd)** &nbsp;•&nbsp; *June 2, 2026 – November 19, 2026*
 
 📍 Khulna, Bangladesh &nbsp;•&nbsp; 🌐 [appstick.com.bd](https://appstick.com.bd)  
 📧 [mahfujul.karim@appstick.com.bd](mailto:mahfujul.karim@appstick.com.bd) &nbsp;•&nbsp; 💻 [GitHub: @mmks735](https://github.com/mmks735)
