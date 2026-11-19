@@ -3,7 +3,7 @@
 <img src="assets/appstick-desk.gif" alt="AppStick Engineering Desk" width="680" />
 
 # AppStick Software Engineering Portfolio
-### End-to-End Product Engineering • R&D & UI/UX • Software Quality Assurance
+### Software Engineer
 
 Crafted by **[MD. Mahfujul Karim Sheikh](https://github.com/mmks735)** during tenure at **[AppStick Ltd](https://appstick.com.bd)**
 
@@ -55,7 +55,7 @@ Crafted by **[MD. Mahfujul Karim Sheikh](https://github.com/mmks735)** during te
 </a>
 
 ### MD. Mahfujul Karim Sheikh
-**Software Engineer (Flutter, R&D & SQA)** @ **[AppStick Ltd](https://appstick.com.bd)**
+**Software Engineer** @ **[AppStick Ltd](https://appstick.com.bd)**
 
 📍 Khulna, Bangladesh &nbsp;•&nbsp; 🌐 [appstick.com.bd](https://appstick.com.bd)  
 📧 [mahfujul.karim@appstick.com.bd](mailto:mahfujul.karim@appstick.com.bd) &nbsp;•&nbsp; 💻 [GitHub: @mmks735](https://github.com/mmks735)
