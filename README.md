@@ -51,14 +51,13 @@ Crafted by **[MD. Mahfujul Karim Sheikh](https://github.com/mmks735)** during te
 <div align="center">
 
 <a href="https://appstick.com.bd" target="_blank">
-  <img src="assets/appstick-logo.png" alt="AppStick Ltd" height="52" />
+  <img src="assets/appstick-logo.png" alt="AppStick Ltd" width="180" />
 </a>
 
-<br/><br/>
+### MD. Mahfujul Karim Sheikh
+**Mobile Application Engineer (Flutter & SQA)** @ **[AppStick Ltd](https://appstick.com.bd)**
 
-**MD. Mahfujul Karim Sheikh**  
-*Mobile Application Engineer* @ **[AppStick Ltd](https://appstick.com.bd)**  
-📍 Khulna, Bangladesh • 🌐 [appstick.com.bd](https://appstick.com.bd)  
+📍 Khulna, Bangladesh &nbsp;•&nbsp; 🌐 [appstick.com.bd](https://appstick.com.bd)  
 📧 [mahfujul.karim@appstick.com.bd](mailto:mahfujul.karim@appstick.com.bd) &nbsp;•&nbsp; 💻 [GitHub: @mmks735](https://github.com/mmks735)
 
 <sub>© AppStick Ltd • Built with Flutter & Markdown</sub>
